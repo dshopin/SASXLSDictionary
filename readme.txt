@@ -1,0 +1,1 @@
+This is SAS macro that creates an Excel dictionary for a SAS dataset.
